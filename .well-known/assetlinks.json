@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "co.mbdesign.mbdesign",
+    "sha256_cert_fingerprints":
+    ["3A:33:6D:00:DD:42:A5:5C:26:49:C5:F8:40:94:A1:4C:6E:D8:DB:40:28:87:9E:28:8D:51:03:92:28:60:A6:5C"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://shadifadila2018.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "co.mbdesign.mbdesign",
+    "sha256_cert_fingerprints":
+    ["3A:33:6D:00:DD:42:A5:5C:26:49:C5:F8:40:94:A1:4C:6E:D8:DB:40:28:87:9E:28:8D:51:03:92:28:60:A6:5C"]
+  }
+}]
